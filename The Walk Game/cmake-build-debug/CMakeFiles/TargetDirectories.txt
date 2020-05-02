@@ -1,0 +1,3 @@
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/cmake-build-debug/CMakeFiles/The_Walk_Game.dir
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

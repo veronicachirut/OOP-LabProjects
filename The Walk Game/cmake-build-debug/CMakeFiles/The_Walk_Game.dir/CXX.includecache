@@ -1,0 +1,124 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/AlongTheWay.cpp
+AlongTheWay.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/AlongTheWay.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/AlongTheWay.h
+vector
+-
+iostream
+-
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Game.cpp
+Game.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Game.h
+chrono
+-
+thread
+-
+unordered_map
+-
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Game.h
+Map.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Map.h
+Round.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Round.h
+AlongTheWay.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/AlongTheWay.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Map.cpp
+Map.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Map.h
+fstream
+-
+utility
+-
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Map.h
+iostream
+-
+utility
+-
+robots/Robot.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/Robot.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Round.cpp
+Round.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Round.h
+unordered_map
+-
+robots/R2_D2.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/R2_D2.h
+robots/C_3PO.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/C_3PO.h
+robots/L3_37.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/L3_37.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Round.h
+Map.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Map.h
+AlongTheWay.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/AlongTheWay.h
+list
+-
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/main.cpp
+algorithm
+-
+Game.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Game.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/C_3PO.cpp
+C_3PO.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/C_3PO.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/C_3PO.h
+Robot.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/Robot.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/L3_37.cpp
+L3_37.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/L3_37.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/L3_37.h
+Robot.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/Robot.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/R2_D2.cpp
+R2_D2.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/R2_D2.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/R2_D2.h
+Robot.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/Robot.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/Robot.cpp
+Robot.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/Robot.h
+../Round.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Round.h
+algorithm
+-
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/robots/Robot.h
+utility
+-
+vector
+-
+iostream
+-
+../Map.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Map.h
+../AlongTheWay.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/AlongTheWay.h
+../Round.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/Round.h
+

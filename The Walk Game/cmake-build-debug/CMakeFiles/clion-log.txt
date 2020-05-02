@@ -1,0 +1,4 @@
+"C:\Users\Vero\Desktop\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Vero\Desktop\Fac\An I\POO\Labs\The Walk Game"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Vero/Desktop/Fac/An I/POO/Labs/The Walk Game/cmake-build-debug
