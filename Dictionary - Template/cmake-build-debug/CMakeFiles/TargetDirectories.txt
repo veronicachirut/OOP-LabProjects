@@ -1,0 +1,3 @@
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/cmake-build-debug/CMakeFiles/Dictionary.dir
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/cmake-build-debug/CMakeFiles/edit_cache.dir

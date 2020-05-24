@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/Dictionary.h
+KeyComp.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/KeyComp.h
+KeyValue.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/KeyValue.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/KeyComp.h
+string
+-
+algorithm
+-
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/KeyValue.h
+
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/main.cpp
+iostream
+-
+cassert
+-
+Dictionary.h
+C:/Users/Vero/Desktop/Fac/An I/POO/Labs/Dictionary - Template/Dictionary.h
+
